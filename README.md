@@ -2,6 +2,10 @@
 
 This is a small training site for practicing HTML, CSS, JavaScript, Git, GitHub, and GitHub Pages.
 
+## Live site
+
+GitHub Pages URL: https://kkopia.github.io/odin-training-site/
+
 ## Training notes
 
 This repo is intentionally simple.
